@@ -33,7 +33,6 @@ def translation(data_rna: str) -> list:
         
 
 
-
 def main() -> int:
     file: str = check_file(sys.argv)
 
